@@ -11,7 +11,7 @@
     "best"
   ],
   "dependencies": {
-    "angularjs": "*"
+    "angular": "*"
   },
   "devDependencies": {
     "bump": "~0.2.5",
@@ -32,7 +32,8 @@
     "karma-junit-reporter": "~0.2.2",
     "karma-phantomjs-launcher": "~0.1.4",
     "load-grunt-tasks": "~0.6.0",
-    "time-grunt": "^0.3.1"
+    "time-grunt": "^0.3.1",
+    "angular": "*"
   },
   "engines": {
     "node": ">=0.10.0"
