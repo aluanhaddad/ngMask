@@ -11,7 +11,7 @@
     "best"
   ],
   "dependencies": {
-    "angular": "*"
+    "angularjs": "*"
   },
   "devDependencies": {
     "bump": "~0.2.5",
